@@ -47,3 +47,4 @@ dashscope
 
 # tencentcloud sdk
 tencentcloud-sdk-python>=3.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
